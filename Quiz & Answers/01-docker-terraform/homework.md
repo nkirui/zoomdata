@@ -66,7 +66,7 @@ volumes:
 - postgres:5433
 - localhost:5432
 - db:5433
-- postgres:5432
+- postgres:5432 \
 **- db:5432**
 
 If there are more than one answers, select only one of them
@@ -105,7 +105,7 @@ Answers:
 - 104,802;  197,670;  110,612;  27,831;  35,281
 - 104,802;  198,924;  109,603;  27,678;  35,189
 - 104,793;  201,407;  110,612;  27,831;  35,281
-- 104,793;  202,661;  109,603;  27,678;  35,189
+- 104,793;  202,661;  109,603;  27,678;  35,189 \
 **- 104,838;  199,013;  109,645;  27,688;  35,202**
 
 
@@ -118,7 +118,7 @@ Tip: For every day, we only care about one single trip with the longest distance
 
 - 2019-10-11
 - 2019-10-24
-- 2019-10-26
+- 2019-10-26 \
 **- 2019-10-31**
 
 
@@ -145,7 +145,7 @@ Note: it's `tip` , not `trip`
 
 We need the name of the zone, not the ID.
 
-- Yorkville West
+- Yorkville West \
 **- JFK Airport**
 - East Harlem North
 - East Harlem South
@@ -172,8 +172,8 @@ Which of the following sequences, **respectively**, describes the workflow for:
 Answers:
 - terraform import, terraform apply -y, terraform destroy
 - teraform init, terraform plan -auto-apply, terraform rm
-- terraform init, terraform run -auto-approve, terraform destroy
-**- terraform init, terraform apply -auto-approve, terraform destroy**
+- terraform init, terraform run -auto-approve, terraform destroy \
+**terraform init, terraform apply -auto-approve, terraform destroy**
 - terraform import, terraform apply -y, terraform rm
 
 
