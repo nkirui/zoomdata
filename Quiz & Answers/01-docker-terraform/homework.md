@@ -20,10 +20,11 @@ Run docker with the `python:3.12.8` image in an interactive mode, use the entryp
 
 What's the version of `pip` in the image?
 
-- 24.3.1
+- **24.3.1**
 - 24.2.1
 - 23.3.1
 - 23.2.1
+
 
 
 ## Question 2. Understanding Docker networking and docker-compose
@@ -66,7 +67,7 @@ volumes:
 - localhost:5432
 - db:5433
 - postgres:5432
-- db:5432
+**- db:5432**
 
 If there are more than one answers, select only one of them
 
@@ -105,7 +106,7 @@ Answers:
 - 104,802;  198,924;  109,603;  27,678;  35,189
 - 104,793;  201,407;  110,612;  27,831;  35,281
 - 104,793;  202,661;  109,603;  27,678;  35,189
-- 104,838;  199,013;  109,645;  27,688;  35,202
+**- 104,838;  199,013;  109,645;  27,688;  35,202**
 
 
 ## Question 4. Longest trip for each day
@@ -118,7 +119,7 @@ Tip: For every day, we only care about one single trip with the longest distance
 - 2019-10-11
 - 2019-10-24
 - 2019-10-26
-- 2019-10-31
+**- 2019-10-31**
 
 
 ## Question 5. Three biggest pickup zones
@@ -128,7 +129,7 @@ Which were the top pickup locations with over 13,000 in
 
 Consider only `lpep_pickup_datetime` when filtering by date.
  
-- East Harlem North, East Harlem South, Morningside Heights
+**- East Harlem North, East Harlem South, Morningside Heights**
 - East Harlem North, Morningside Heights
 - Morningside Heights, Astoria Park, East Harlem South
 - Bedford, East Harlem North, Astoria Park
@@ -145,7 +146,7 @@ Note: it's `tip` , not `trip`
 We need the name of the zone, not the ID.
 
 - Yorkville West
-- JFK Airport
+**- JFK Airport**
 - East Harlem North
 - East Harlem South
 
@@ -172,7 +173,7 @@ Answers:
 - terraform import, terraform apply -y, terraform destroy
 - teraform init, terraform plan -auto-apply, terraform rm
 - terraform init, terraform run -auto-approve, terraform destroy
-- terraform init, terraform apply -auto-approve, terraform destroy
+**- terraform init, terraform apply -auto-approve, terraform destroy**
 - terraform import, terraform apply -y, terraform rm
 
 
