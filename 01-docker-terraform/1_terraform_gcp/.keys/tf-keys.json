@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zoomcamp-447713",
+  "private_key_id": "a37bef7bc98192971f4bd16dd83cf209865e8cc9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmAdghHCADoxqP\nk+2l7Rz82B78aYR9Z+p+eyvegZdbHHzyCR7Y+CNDYf1mqdyN+cOUMaeQ8xzW8U7Z\naHtx2MLDdRPpTFAX17HkKDssQeciN1qRqdXZMPkv/diKLa/k6hCrsynux89Qccud\nByAR9p+M0DO/m93w5qv93HG7qaMWeTDyWS3gxoVzTsYHzDoSCP4f6RNL7Zyg4aWk\n1znhh6ZXEve+Oh69iMArKptdEJx6kdV3Xr7XuHQ8/ffwUNi4OLGtLPZXeo+cUWxq\nU69SmrnPogkEKSEgrpMqDpfmH2TaVxq/qJoAilpU1dNK9l9j2sf3L9HESXeR4ylu\nVhjFDjFdAgMBAAECggEABPqKLlgHF8TU/5haqL7HP0gGCeDqQc6TiE6OXsJ5NRjS\nIHoojC5I9HTkYidW/4UNmgyxL1YzN7kN+dQ524y6Lp18xuLshgKIicSxHZ8uXObX\nFwZGbRicaJWO4HoFS/K/JD8f01L3wzxedGupyRAh8dmuq6Dzk41/fAIYAR5Rz1Mv\nwClQFJkWiyWBDtPs92n5OwYIth0oxTqu+O7NYxgC2yk5OpyST3unFUFA8BSdsmH6\nn/yNMBL/olaVlmm4UqtfgjBPtUDmUypBxIpHyVYcxqEtgcHUsb77LXgsxjWaA549\nOz1s37+nfCbVrVyWA2iWkmn7j/AJey5xP0b331vAEQKBgQDdvsn4s7h91vqvM2oF\nSyLJnAxv5FqDL8ZwjpT/m2+KcCtM1OLmOsgXBXVtrfFLhUtOyoZL044glsIHNapK\n9gDmORciM5bbQ9rY8ivVH7r/kzlG+DsOe+ilcNsTMgkGVvkSiPSkrcnjzzikVRzp\nN9rdbA5VvwsXOgpMnRYI5dzdJQKBgQC/ptHMJMMekZOwJuWm5N0iWJXiOriwzZZl\nAKrGLB+KIigncuhCul9sRNukKkN9HKb5CUw3SCE/WiQ+v0ynGyak5HJRO9dBdaC4\nObIybPonJ+bBA1rVzvNDsVcsm0qiV9T3i3kjFROHrLYl4fPaVRRNZoY7wQvqklZ+\nr3z/e7u52QKBgAFBWj1ZLxsvQ14IiXocMcc4Ze2gOk7xz0rF09wakigTeHtH3Tz2\najmPI1oKmQoXaBS7GsWFHhHbKKAH0r335ItpGVNtPVZibPO7czoSouldeP6I2zS6\nyNde6y6RovFxPpm3QsNH5JOwkZ6EiNRdJ5UHTpF3smVgQ7ypSv2j53stAoGBAKJz\nBbwzoQyFOxmCLwFjVynoystjGPAMo6Fjil3GQsm0oDKoDMWa8o10ZHTnuiMPqVzI\ni8kEI+JuRvDE+HVg50W3ukqvHYuH6D6f8TMa+oM8KDWM4W8AJ2VGqezOiNnI92UI\n3RpmoBJNzGuZ9jgoC7h74eY+gRpJBnYFzD9Go14pAoGACAN6EoXKwU9az+yPPIk8\nq/S8qzqKWEaRZLtrUnOngqLxSCAfWA8X4fFcDvWr0DWx3eq8xYq63Q9ay2dohrfk\nEJgmSIQ7fHtn5r31tT9Dih8az2YZPy2bxB5I3HpW4rFEdaYXPRS0P78KkhPP7/+t\n7KA8xmGQXA4YbzAct0RruEU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tf-service@zoomcamp-447713.iam.gserviceaccount.com",
+  "client_id": "117330703452694124517",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tf-service%40zoomcamp-447713.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
